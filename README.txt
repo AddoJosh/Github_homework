@@ -8,3 +8,4 @@ Understanding the mechanisms of resistance to Powdery Mildew in Cucurbita spp.
 Breeding resistance against Phytophthora capsici fruit rot in Cucurbita spp.
 
 
+This is Tristan adding text to Joshua Addo's README.txt file.
