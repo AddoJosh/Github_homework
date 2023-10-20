@@ -9,3 +9,4 @@ Breeding resistance against Phytophthora capsici fruit rot in Cucurbita spp.
 
 
 This is Tristan adding text to Joshua Addo's README.txt file.
+This is Julia Oliveira here! I'm complementing the homework now.
